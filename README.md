@@ -51,4 +51,4 @@ To create or modify tests, please place it in the `tests` directory.
 
 
 ## Author
-* **Abdullah Alsharif**[aalshrif90](https://github.com/aalshrif90)
+* **Abdullah Alsharif** - [aalshrif90](https://github.com/aalshrif90)
